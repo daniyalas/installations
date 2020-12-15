@@ -1,0 +1,20 @@
+Create a new folder and put the zip file there and then unzip it.
+
+Watch this video to add all the addons:
+https://www.youtube.com/watch?v=UEL5Ru5kkQY&t=120s&ab_channel=TheAnKing
+
+When you restart Anki you'll notice the backgroung is weird.
+To remove the background, go to Tools
+-> Custom Background Gear Icon
+-> Set up Background/Gear (Config)
+A window will pop-up.
+In the 1st line of code, change "MilkyWay.png" to ""
+That's all.
+Watch this video to learn how to use this Add-on properly:
+https://www.youtube.com/watch?v=5XAq0KpU3Jc&ab_channel=TheAnKing
+
+Then add any other Add-on which is NOT included in the zip file.
+Such as: 2040501954 - Symbols As You Type.
+
+LASTLY, install the "AnKingMaster v8.apkg" by double-clicking on it. If you don't have the file you can download it from:
+https://drive.google.com/drive/folders/1P5mvoCBO_xy3Dqx1w1GYbBYjpyy_yPjM
