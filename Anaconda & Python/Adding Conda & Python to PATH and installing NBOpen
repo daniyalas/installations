@@ -1,0 +1,13 @@
+Add Python and Anaconda to the Path Environment
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+Also add these paths to the environment variables:
+C:\ProgramData\Anaconda3\Library\mingw-w64\bin
+C:\ProgramData\Anaconda3\usr\bin
+C:\ProgramData\Anaconda3\Library\bin
+Why? Because when I bought HP ProBook 450 G2, I faced the same problem this guy was facing:
+https://stackoverflow.com/questions/52821162/jupyter-notebook-failed-to-load-dll
+I do not want to face this problem ever again.
+
+Finally, install NBOpen to open Notebooks by double clicking:
+https://stackoverflow.com/questions/47267932/associate-ipynb-files-with-jupyter-notebook-in-windows-10-anaconda
